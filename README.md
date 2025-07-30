@@ -1,5 +1,4 @@
-# Designing webpage has one line form that includes name, age, submit button
-# Stored into MySQL database table
+# webpage has one line to enter name, age & Stored into MySQL database table
 
 - webpage has one line form that includes name, age, submit button under it a table display all records from MySQL database with toggle button
 
